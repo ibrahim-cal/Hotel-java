@@ -1,6 +1,6 @@
 # Hotel-java
 Système de gestion de réservation chambres d'hotel avec design patterns DAO, Singleton et 
-Fabrique).
+Fabrique.
 
 Fonctionnalités  :
 • CRUD (Create, Update, Read, Delete) des 2 tables CLIENT et RESERVATION. 
